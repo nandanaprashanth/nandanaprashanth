@@ -17,8 +17,6 @@ Hello, I'm Nandana Prashanth, a passionate student with a love for technology an
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pandas.svg"/>
-<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/numpy.svg"/>
 <img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
@@ -39,7 +37,6 @@ Hello, I'm Nandana Prashanth, a passionate student with a love for technology an
 ### 📊 Stats
 <div align="center">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=nandanaprashanth&show_icons=true&theme=gruvbox" />
-    <img height="180" src="![Repo Activity](https://github-readme-activity-graph.cyclic.app/graph?username=nandanaprashanth&repo=my-repository-name)" />
 </div>
 
 ---
