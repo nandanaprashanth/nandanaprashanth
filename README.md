@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm Nandana Prashanth, a passionate student with a love for technology and a commitment to creating meaningful solutions. I thrive on tackling complex challenges and transforming ideas into practical, elegant solutions.
+Hello, I'm Nandana Prashanth, a passionate Artificial Intelligence and Data Science student engineer with a love for technology and a commitment to creating meaningful solutions. I thrive on tackling complex challenges and transforming ideas into practical, elegant solutions.
 
 - 🌱 I’m currently learning advanced Machine Learning techniques.
 - 🚀 I’m working on a project called AgriConnect.
