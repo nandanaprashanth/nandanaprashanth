@@ -39,7 +39,7 @@ Hello, I'm Nandana Prashanth, a passionate student with a love for technology an
 ### 📊 Stats
 <div align="center">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=nandanaprashanth&show_icons=true&theme=gruvbox" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandanaprashanth&theme=merko&layout=compact&langs_count=8&card_width=320" />
+    <img height="180" src="![Repo Activity](https://github-readme-activity-graph.cyclic.app/graph?username=nandanaprashanth&repo=my-repository-name)" />
 </div>
 
 ---
