@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Hello, I'm Nandana, a passionate student with a love for technology and a commitment to creating meaningful solutions. I thrive on tackling complex challenges and transforming ideas into practical, elegant solutions.
+Hello, I'm Nandana Prashanth, a passionate student with a love for technology and a commitment to creating meaningful solutions. I thrive on tackling complex challenges and transforming ideas into practical, elegant solutions.
 
 - 🌱 I’m currently learning advanced Machine Learning techniques.
 - 🚀 I’m working on a project called AgriConnect.
-- 🤝 I’m looking to collaborate on Generative AI projects.
+- 🤝 I’m looking to collaborate on Generative AI projects and related fields.
 
 <a href="https://www.linkedin.com/in/nandana-prashanth-52214226a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
